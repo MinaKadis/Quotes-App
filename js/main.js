@@ -71,7 +71,7 @@ function generateQuoteWithAPI() {
   const p = document.querySelector("#quoteOutput");
   document.querySelector("#authorOutput").textContent =
     "― From quotable.io Site with API";
-  const API = "http://api.quotable.io/random";
+  const API = "https://api.quotable.io/random";
   fetch(API)
     .then((res) => res.json())
     .then((data) => {
