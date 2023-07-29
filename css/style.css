@@ -277,13 +277,13 @@ h1 {
   font-family: Impact;
 }
 
-button {
+/* button {
   width: 250px;
   height: 80px;
   background-color: blue;
   color: white;
   margin: 50px;
-}
+} */
 
 p {
   font-size: 35px;
@@ -291,4 +291,23 @@ p {
 
 button:hover {
   background-color: green;
+}
+
+img {
+  width: 90px;
+  height: 90px;
+}
+
+#quoteCaption {
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+#quoteOutput {
+  font-style: italic;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.MoveCaption {
+  margin-top: 6.875rem;
 }
