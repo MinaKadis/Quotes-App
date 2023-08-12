@@ -1,4 +1,7 @@
 # Quotes-App
+<a href="https://github.com/minakadis"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=minakadis&style=flat-square" width="125"/></a>
+
+
 Built with:
 - HTML5 [Semantic Tags]
 - CSS3 [Media Query]
